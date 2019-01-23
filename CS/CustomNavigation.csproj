@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.5">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -63,29 +63,25 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v15.1.Core">
-      <Name>DevExpress.Printing.v15.1.Core</Name>
+    <Reference Include="DevExpress.Printing.v13.1.Core">
+      <Name>DevExpress.Printing.v13.1.Core</Name>
       <AssemblyFolderKey>hklm\devexpress debug</AssemblyFolderKey>
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.1\Components\Bin\Framework\DevExpress.Printing.v15.1.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.v15.1">
-      <Name>DevExpress.Data.v15.1</Name>
+    <Reference Include="DevExpress.Data.v13.1">
+      <Name>DevExpress.Data.v13.1</Name>
       <AssemblyFolderKey>hklm\devexpress debug</AssemblyFolderKey>
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.1\Components\Bin\Framework\DevExpress.Data.v15.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Utils.v15.1">
-      <Name>DevExpress.Utils.v15.1</Name>
+    <Reference Include="DevExpress.Utils.v13.1">
+      <Name>DevExpress.Utils.v13.1</Name>
       <AssemblyFolderKey>hklm\devexpress debug</AssemblyFolderKey>
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.1\Components\Bin\Framework\DevExpress.Utils.v15.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraNavBar.v15.1">
-      <Name>DevExpress.XtraNavBar.v15.1</Name>
+    <Reference Include="DevExpress.XtraNavBar.v13.1">
+      <Name>DevExpress.XtraNavBar.v13.1</Name>
       <AssemblyFolderKey>hklm\devexpress debug</AssemblyFolderKey>
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.1\Components\Bin\Framework\DevExpress.XtraNavBar.v15.1.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
